@@ -1,6 +1,6 @@
-data/
-model/
+.DS_Store
 **/*.ipynb_checkpoints/
 __pycache__
-script/wikipedia-list-scraper.py
 **/PRIVATE*
+data/
+model/
