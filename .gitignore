@@ -1,0 +1,6 @@
+data/
+model/
+**/*.ipynb_checkpoints/
+__pycache__
+script/wikipedia-list-scraper.py
+**/PRIVATE*
